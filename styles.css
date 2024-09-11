@@ -5,5 +5,13 @@ body {
 }
 
 h1 {
+    background-color: orange;
     font-size: 144px;
+}
+
+.block {
+    background-color: pink;
+    color: black;
+    width: 30%;
+    margin: auto;
 }
